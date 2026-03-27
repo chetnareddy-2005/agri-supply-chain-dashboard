@@ -53,4 +53,4 @@ CASHFREE_SECRET_KEY=your_secret_key
 
 ## 👨‍💻 Author
 
-Chetna Reddy
+C Y Chetna Reddy
