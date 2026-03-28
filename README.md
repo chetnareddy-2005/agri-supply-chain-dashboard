@@ -32,6 +32,21 @@ cd frontend
 npm install
 npm start
 
+###the default credentials configured for the roles in your application:
+
+###Admin Credentials:
+Email: admin@agriconnect.com
+Password: Admin@123
+(The seeder also provisions default accounts for the other roles just in case you ever need to test with them quickly!)
+
+###Test Farmer Credentials:
+Email: farmer@test.com
+Password: password
+
+###Test Retailer Credentials:
+Email: retailer@test.com
+Password: password
+
 ## 🔐 Environment Variables
 
 Set these before running:
