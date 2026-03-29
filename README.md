@@ -156,11 +156,11 @@ npm run deploy
 
 ## 🧪 Demo Credentials  
 
-| Role     | Email              | Password |
-|----------|--------------------|----------|
-| Admin    | admin@test.com     | 1234     |
-| Farmer   | farmer@test.com    | 1234     |
-| Retailer | retailer@test.com  | 1234     |
+| Role     | Email                     | Password     |
+|----------|---------------------------|--------------|
+| Admin    | admin@agriconnect.com     | Admin@123    |
+| Farmer   | farmer@test.com           | 1234         |
+| Retailer | retailer@test.com         | 1234         |
 
 ---
 
