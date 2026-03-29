@@ -9,7 +9,19 @@
       margin: auto;
       padding: 30px;
       line-height: 1.6;
-      background-color: #ffffff;
+      background-color: transparent;
+    }
+    body::before {
+      content: "";
+      background: url('./app/hero-image.jpg') no-repeat center center fixed;
+      background-size: cover;
+      opacity: 0.15;
+      top: 0;
+      left: 0;
+      bottom: 0;
+      right: 0;
+      position: fixed;
+      z-index: -1;
     }
     h1 {
       color: #2e7d32;
@@ -23,7 +35,7 @@
 </head>
 <body>
 
-<img src="./app/hero-image.jpg" alt="Farmer and Retailer" style="float: right; width: 350px; mix-blend-mode: multiply; margin-left: 20px;" />
+
 
 <h1 onclick="goToApp()">🌾 Agri Supply Chain Dashboard</h1>
 
