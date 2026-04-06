@@ -11,9 +11,9 @@
 
 ## 🚀 Live Demo  
 
-🔗 **Frontend:** [https://chetnareddy-2005.github.io/agri-supply-chain-dashboard/ ](http://localhost:5173/agri-supply-chain-dashboard/app/) 
+🔗 **Frontend:** [[https://chetnareddy-2005.github.io/agri-supply-chain-dashboard/ ](http://localhost:5173/agri-supply-chain-dashboard/app/) ](https://chetnareddy-2005.github.io/agri-backend/)
 
-🔗 **Backend API:** https://agri-backend-xz72.onrender.com  
+🔗 **Backend API:** [https://agri-backend-xz72.onrender.com  ](https://agri-backend-xz72.onrender.com)
 
 ⚠️ *Note: Backend is hosted on free tier (Render), first load may take ~30–50 seconds.*  
 
